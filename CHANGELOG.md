@@ -1,4 +1,4 @@
-## v.8 (March 18, 2015)
+## v. 8 (18 Maret 2015)
 
   - Chris added rad dogs and kids and shit back to the login page and it
     looks great. You love it. Thanks, Chris!
